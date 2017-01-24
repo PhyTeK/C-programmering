@@ -1,4 +1,9 @@
-/* Test of pointers i C */
+/* Test of pointers i C 
+ * 
+ * A pointer is a variable whose value is the address
+ * of another variable
+ */
+ 
 #include <stdio.h>
 
 int main(){
