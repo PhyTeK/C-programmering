@@ -6,7 +6,8 @@ int main(){
     /* &a is the internal adress of a 
      * scanf gets two integers
     */
-    scanf("%d%d",&a,&b); 
+    scanf("%d%d",&a,&b);
+    
     printf("I got %d and %d",a,b);
     
     return 0;
