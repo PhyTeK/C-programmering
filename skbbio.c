@@ -5,8 +5,6 @@
    011208: no references to L and v
  */
 
-/* File doc/PDMtemplate; TRANSIENT V2.51; 14 Aug. 2001 */
-/* (C) 2001 Miroslav Kolar */
 
 /* Template for the Problem Definition Module source file(s)	*/
 #define trueSteady 0
